@@ -1,4 +1,4 @@
-This writeup is from a semester-long cryptography project wherein our group was attempting to program a simple file and group server setup from scratch while making use of the Java BouncyCastle encryption library. The purpose of the reports was to justify to the instructor our programming choices and security decisions. This report was crafted as part of a group with two other students. I selected phase 4 as a sample because, referring back to the log, I apparently crafted at least 90% of this paper.
+This writeup is from a semester-long cryptography project wherein our group was attempting to program a simple file and group server setup from scratch while making use of the Java BouncyCastle encryption library. The purpose of the reports was to justify to the instructor our programming choices and security decisions. This report was crafted as part of a group with two other students. I selected phase 4 as a sample because, referring back to the log, I apparently crafted at least 90% of this paper. This paper was originally written in markdown.
 
 ## Phase 4 Overview
 
