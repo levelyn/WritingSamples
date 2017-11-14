@@ -1,1 +1,1 @@
-The following document is a journal article I submitted to iConference 2018 (acceptance still pending) based on research I did as an undergraduate. It is fairly wordy, as I was attempting to match the academic style of writing.
+The following document is a journal article I submitted to iConference 2018 based on research I did as an undergraduate. It is fairly wordy, as I was attempting to match the academic style of writing.
